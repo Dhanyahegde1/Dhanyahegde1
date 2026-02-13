@@ -1,3 +1,5 @@
+**I'm Dhanya Hegde**
+
 # 💫 About Me:
 Building end-to-end applications that combine data science, machine learning, and full-stack development using Python, JavaScript, SQL, and modern web tools.<br> Looking to Collaborate On<br>Full-stack applications, ML-powered products, data-driven platforms, and open-source projects.<br>Looking for Help With<br>Scalable system design, backend optimization, ML deployment, and production-ready architectures.<br>Currently Learning<br>Advanced machine learning, backend frameworks, REST APIs, cloud fundamentals, and modern frontend workflows.<br>Ask Me About<br>Python, JavaScript, SQL, full-stack development, data analytics, ML basics, and project structuring.<br> Fun Fact<br>I enjoy building applications where clean code meets intelligent data
 
@@ -15,19 +17,4 @@ Building end-to-end applications that combine data science, machine learning, an
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhanyahegde1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
-<!--
-**Dhanyahegde1/Dhanyahegde1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
